@@ -6,7 +6,7 @@ git clone git clone "https://github.com/eichingertim/ProjectCreationAutomation.g
 cd ProjectCreationAutomation
 pip install -r requirements.txt
 ```
-Then edit the two files **create.bat** (inside batch-folder) and **scripty.py** where necassary (marked and described with comments). 
+Then edit the two files **create.bat** (inside batch-folder) and **scripty.py** where necessary (marked and described with comments). 
 
 After that check which version of Google's Chrome Browser you have installed and download the corresponding **webdriver** from the following website (https://sites.google.com/a/chromium.org/chromedriver/downloads) and unzip it.
 
