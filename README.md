@@ -8,7 +8,9 @@ pip install -r requirements.txt
 ```
 Then edit the two files **create.bat** (inside batch-folder) and **scripty.py** where necassary (marked and described with comments). 
 
-**IMPORTANT**: Now you have to put the path of the create.bat file (e.g. C:\User\...\ProjectCreationAutomation\batch) to your SYSTEM-PATH. Here is a short instruction how to do this:
+After that check which version of Google's Chrome Browser you have installed and download the corresponding **webdriver** from the following website (https://sites.google.com/a/chromium.org/chromedriver/downloads) and unzip it.
+
+**IMPORTANT**: Now you have to put the path of the **create.bat**-file (e.g. C:\User\...\ProjectCreationAutomation\batch) and the path of the just downloaded **webdriver** to your SYSTEM-PATH. Here is a short instruction how to do this:
 1. type **env** to your windows-search and hit enter. A dialog with system-properties should appear.
 2. Click on the Button with **Environment Variables**
 3. In the System Variables window, highlight **Path**, and click **Edit**.
