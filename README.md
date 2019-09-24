@@ -1,4 +1,6 @@
 # Project Creation Automation for WINDOWS
+## Inspiration
+This project is inspired by Kalle Halden (https://github.com/KalleHallden). He had the idea to this project and made it working for MacOS. Check his repository out:https://github.com/KalleHallden/ProjectInitializationAutomation
 ## How to install
 **BEFORE CLONING** make sure that you have already installed the newest version of python and you succesfully added it to your SYSTEM-PATH.
 
