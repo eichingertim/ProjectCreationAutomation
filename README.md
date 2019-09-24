@@ -1,5 +1,9 @@
 # Project Creation Automation for WINDOWS
 ## How to install
+**BEFORE CLONING** make sure that you have already installed the newest version of python and you succesfully added it to your SYSTEM-PATH. If you don't know how to put a file-path to the system path, look at the short instruction below.
+
+---
+
 Goto your command-line (cmd) and navigate to the location where you want to clone this project. Then type:
 ```bash
 git clone git clone "https://github.com/eichingertim/ProjectCreationAutomation.git"
@@ -16,7 +20,7 @@ After that check which version of Google's Chrome Browser you have installed and
 3. In the System Variables window, highlight **Path**, and click **Edit**.
 4. In the Edit System Variables window, insert the cursor at the end of the Variable value field.
 5. If the last character is not a semi-colon (;), add one.
-6. After the final semi-colon, type the full path to the file you want to find
+6. After the final semi-colon, type the full path to the file
 7. Click **OK** in each open windows
 
 ## How to use it
