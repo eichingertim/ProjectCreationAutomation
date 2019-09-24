@@ -1,6 +1,6 @@
 # Project Creation Automation for WINDOWS
 ## How to install
-**BEFORE CLONING** make sure that you have already installed the newest version of python and you succesfully added it to your SYSTEM-PATH. If you don't know how to put a file-path to the system path, look at the short instruction below.
+**BEFORE CLONING** make sure that you have already installed the newest version of python and you succesfully added it to your SYSTEM-PATH.
 
 ---
 
@@ -17,7 +17,7 @@ After that check which version of Google's Chrome Browser you have installed and
 **IMPORTANT**: Now you have to put the path of the **create.bat**-file (e.g. C:\User\...\ProjectCreationAutomation\batch) and the path of the just downloaded **webdriver** to your SYSTEM-PATH. Here is a short instruction how to do this:
 1. type **env** to your windows-search and hit enter. A dialog with system-properties should appear.
 2. Click on the Button with **Environment Variables**
-3. In the System Variables window, highlight **Path**, and click **Edit**.
+3. In the System Variables window, highlight **Path** in the upper section, and click **Edit**.
 4. In the Edit System Variables window, insert the cursor at the end of the Variable value field.
 5. If the last character is not a semi-colon (;), add one.
 6. After the final semi-colon, type the full path to the file
