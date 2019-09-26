@@ -8,7 +8,7 @@ This project is inspired by Kalle Halden (https://github.com/KalleHallden). He h
 
 Goto your command-line (cmd) and navigate to the location where you want to clone this project. Then type:
 ```bash
-git clone git clone "https://github.com/eichingertim/ProjectCreationAutomation.git"
+git clone "https://github.com/eichingertim/ProjectCreationAutomation.git"
 cd ProjectCreationAutomation
 pip install -r requirements.txt
 ```
