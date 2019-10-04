@@ -28,8 +28,8 @@ def enter_data_and_sign_in_to_gitub():
     password_field = driver.find_elements_by_xpath("//*[@id='password']")[0]
     password_field.send_keys(git_password)
 
-    sign_in_button = driver.find_elements_by_xpath("//*[@id='login']/form/div[3]/input[7]")[0]
-    sign_in_button.click()
+    sign_in_button = driver.find_elements_by_xpath("//*[@id='login']/form/div[3]/input[8]")[0]
+    sign_in_button.submit()
 
 
 
