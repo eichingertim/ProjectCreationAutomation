@@ -1,10 +1,10 @@
-:: ENTER PATH WHERE THE script.py IS LOCATED
+:: ENTER PATH WHERE THE script.py IS LOCATED.
 cd <PATH>
 
 python script.py %1 %2
 
 :: ENTER PATH WHERE YOUR PROJECTS ARE SAVED
-:: e.g. C:/User/<USERNAME>/Documents/Projects
+:: e.g. C:\Users\<USERNAME>\Documents\Projects
 cd <PATH>\%1
 
 

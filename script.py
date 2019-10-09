@@ -9,7 +9,8 @@ git_username = "<USERNAME>"
 git_password = "<PASSWORD>"
 
 # ENTER THE COMPLETE PATH TO YOUR LOCATION WHERE YOU WANT TO SAVE YOUR PROJECTS
-# e.g. C:/Users/<USERNAME>/Documents/Projects
+# e.g. C:/Users/<USERNAME>/Documents/Projects/
+## !!!YOU MUST SEPERATE FOLDERS WITH NORMAL-SLASHES NOT BACK-SLASHES AND AT THE END PUT A SLASH LIKE IN THE EXAMPLE!!!
 path = "<PATH>"
 
 def create_folder_and_repo():
