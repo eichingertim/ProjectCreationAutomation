@@ -11,6 +11,7 @@ cd <PATH>\%1
 git init
 
 ::ENTER YOUR GIT USERNAME
+git remote rm origin
 git remote add origin https://github.com/<USERNAME>/%1.git
 
 echo # %1 > README.md
