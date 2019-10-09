@@ -1,6 +1,6 @@
 import os
 import sys
-import time
+from github import Github
 
 # ENTER YOUR GITHUB USERNAME
 git_username = "<USERNAME>"
