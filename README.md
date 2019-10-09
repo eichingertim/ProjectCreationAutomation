@@ -18,9 +18,7 @@ Then edit the two files **create.bat** (inside batch-folder) and **scripty.py** 
 1. type **env** to your windows-search and hit enter. A dialog with system-properties should appear.
 2. Click on the Button with **Environment Variables**
 3. In the System Variables window, highlight **Path** in the upper section, and click **Edit**.
-4. In the Edit System Variables window, insert the cursor at the end of the Variable value field.
-5. If the last character is not a semi-colon (;), add one.
-6. After the final semi-colon, type the full path to the file
+4. In the Edit System Variables window, click **New** and add the full path to the new created line.
 7. Click **OK** in each open windows
 
 ## How to use it
